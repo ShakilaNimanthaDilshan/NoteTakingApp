@@ -3,5 +3,5 @@ import express from "express"
 const app=express();
 
 app.listen(5001, () => {
-    console.log("server started on PORT: 5001 and 5000");
+    console.log("server started on PORT: 5001");
 })
